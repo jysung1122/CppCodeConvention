@@ -59,11 +59,11 @@
    namespace abc{};
    ```
 9. 불(boolean)형 변수는 앞에 b를 붙인다.
-   ```
-   bool bFired;    // 지역 변수와 public 멤버 변수의 경우
-   bool mbFired;   // 클래스의 private 멤버 변수의 경우
-   bool m_bFired;  // 클래스의 private 멤버 변수의 경우
-   ```
+    ```
+    bool bFired;    // 지역 변수와 public 멤버 변수의 경우
+    bool mbFired;   // 클래스의 private 멤버 변수의 경우
+    bool m_bFired;  // 클래스의 private 멤버 변수의 경우
+    ```
 10. 인터페이스를 선언할 때는 앞에 I를 붙인다.
    ```
    class ISomeInterface;
