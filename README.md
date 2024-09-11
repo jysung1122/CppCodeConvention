@@ -84,6 +84,7 @@
         int mDepartmentID;
     private:
         int m_Age;
+    }
     ``` 
 13. goto 레이블 명은 모두 대문자로 하되 밑줄로 각 단어를 분리한다. (goto 지양!)
     ```
