@@ -36,7 +36,7 @@
      public:
          void DoSomething();
      ```
-   b. 그 외 다른 메서드의 이름은 카멜 표기법을 따른다.
+   b. ~~그 외 다른 메서드의 이름은 카멜 표기법을 따른다.~~
      ```
      private:
          void doSomething();
